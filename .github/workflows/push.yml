@@ -40,3 +40,9 @@ jobs:
         with:
           args: deploy --dir=build --prod
           secrets: '["NETLIFY_AUTH_TOKEN", "NETLIFY_SITE_ID"]'
+
+
+          
+          
+          
+# git remote set-url origin https://<github user name>:<access token>@github.com/<github user name>/<repo name>.git
